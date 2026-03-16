@@ -1,0 +1,8457 @@
+[
+  {
+    "name": "Palak Paneer",
+    "description": "Spinach and paneer curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "spinach",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "mild"
+    ]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "description": "Creamy tomato-paneer curry.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "sabji",
+      "paneer",
+      "tomato",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "mild"
+    ]
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "description": "Grilled paneer in spiced tomato gravy.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Kadai Paneer",
+    "description": "Paneer with bell peppers in kadai masala.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Shahi Paneer",
+    "description": "Rich Mughlai paneer in nutty gravy.",
+    "tags": [
+      "north_indian",
+      "mughlai",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner",
+      "mild",
+      "festive"
+    ]
+  },
+  {
+    "name": "Malai Kofta",
+    "description": "Paneer-potato balls in creamy gravy.",
+    "tags": [
+      "north_indian",
+      "mughlai",
+      "sabji",
+      "paneer",
+      "potato",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "mild"
+    ]
+  },
+  {
+    "name": "Aloo Gobi",
+    "description": "Potato and cauliflower dry curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "potato",
+      "cauliflower",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "mild"
+    ]
+  },
+  {
+    "name": "Aloo Matar",
+    "description": "Potato and green peas curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "potato",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Baingan Bharta",
+    "description": "Smoky roasted eggplant mash.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Bhindi Masala",
+    "description": "Okra cooked with spices.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Chana Masala",
+    "description": "Spiced chickpea curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "chickpea",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Chole",
+    "description": "Punjabi chickpea curry.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "sabji",
+      "chickpea",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Mix Veg",
+    "description": "Mixed vegetables in gravy.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "mild"
+    ]
+  },
+  {
+    "name": "Lauki Sabzi",
+    "description": "Bottle gourd curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "alkaline",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Jeera Aloo",
+    "description": "Cumin-spiced potatoes.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "potato",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "quick"
+    ]
+  },
+  {
+    "name": "Dum Aloo",
+    "description": "Potatoes in rich gravy.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "sabji",
+      "potato",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Gobi Masala",
+    "description": "Cauliflower in onion-tomato masala.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "cauliflower",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Karela Sabzi",
+    "description": "Bitter gourd curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "healthy",
+      "mild"
+    ]
+  },
+  {
+    "name": "Matar Paneer",
+    "description": "Paneer and peas in tomato gravy.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Navratan Korma",
+    "description": "Nine-vegetable Mughlai korma.",
+    "tags": [
+      "north_indian",
+      "mughlai",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "mild",
+      "festive"
+    ]
+  },
+  {
+    "name": "Dal Makhani",
+    "description": "Creamy black lentils.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Dal Tadka",
+    "description": "Tempered yellow dal.",
+    "tags": [
+      "north_indian",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "light"
+    ]
+  },
+  {
+    "name": "Dal Fry",
+    "description": "Fried and tempered dal.",
+    "tags": [
+      "north_indian",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Dal Palak",
+    "description": "Lentils with spinach.",
+    "tags": [
+      "north_indian",
+      "dal",
+      "lentil",
+      "spinach",
+      "main",
+      "lunch",
+      "dinner",
+      "healthy",
+      "light"
+    ]
+  },
+  {
+    "name": "Chana Dal",
+    "description": "Bengal gram dal.",
+    "tags": [
+      "north_indian",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Moong Dal",
+    "description": "Yellow moong lentils.",
+    "tags": [
+      "north_indian",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Jeera Rice",
+    "description": "Cumin-flavoured rice.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Peas Pulao",
+    "description": "Rice with green peas.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "pulao",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style",
+      "mild"
+    ]
+  },
+  {
+    "name": "Veg Biryani",
+    "description": "Spiced vegetable biryani.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "biryani",
+      "main",
+      "lunch",
+      "dinner",
+      "festive",
+      "heavy",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Veg Pulao",
+    "description": "Mixed vegetable pulao.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "pulao",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Naan",
+    "description": "Leavened flatbread.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Roti",
+    "description": "Whole wheat flatbread.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "wheat",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Butter Naan",
+    "description": "Naan with butter.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Garlic Naan",
+    "description": "Naan with garlic.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Aloo Paratha",
+    "description": "Stuffed potato paratha.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "paratha",
+      "potato",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "comfort",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Gobi Paratha",
+    "description": "Stuffed cauliflower paratha.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "paratha",
+      "cauliflower",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Paneer Paratha",
+    "description": "Stuffed paneer paratha.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "paratha",
+      "paneer",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Methi Paratha",
+    "description": "Fenugreek leaves paratha.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "paratha",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Laccha Paratha",
+    "description": "Layered flaky paratha.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "paratha",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Puri",
+    "description": "Deep-fried puffed bread.",
+    "tags": [
+      "north_indian",
+      "bread",
+      "breakfast",
+      "fried"
+    ]
+  },
+  {
+    "name": "Poha",
+    "description": "Flattened rice with onions and spices.",
+    "tags": [
+      "north_indian",
+      "breakfast",
+      "light",
+      "quick",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Rajma",
+    "description": "Kidney bean curry.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "dal",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Kadhi",
+    "description": "Yogurt-based curry with pakoras.",
+    "tags": [
+      "north_indian",
+      "gujarati",
+      "curry",
+      "yogurt",
+      "main",
+      "lunch",
+      "dinner",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Kulcha",
+    "description": "Leavened stuffed bread.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "bread",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bhatura",
+    "description": "Puffed fried bread.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "bread",
+      "main",
+      "breakfast",
+      "fried"
+    ]
+  },
+  {
+    "name": "Chole Bhature",
+    "description": "Chickpea curry with bhatura.",
+    "tags": [
+      "north_indian",
+      "punjabi",
+      "breakfast",
+      "main",
+      "chickpea",
+      "bread",
+      "heavy",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Puri Sabzi",
+    "description": "Puri with potato curry.",
+    "tags": [
+      "north_indian",
+      "breakfast",
+      "bread",
+      "potato",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Suji Halwa",
+    "description": "Semolina halwa.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "breakfast",
+      "sweet_flavor",
+      "quick"
+    ]
+  },
+  {
+    "name": "Samosa",
+    "description": "Crispy stuffed pastry.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "starter",
+      "fried",
+      "crispy",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Pakora",
+    "description": "Fried fritters.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "starter",
+      "fried",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Milk solids in sugar syrup.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Jalebi",
+    "description": "Coiled sweet in syrup.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "breakfast",
+      "street_food",
+      "sweet_flavor",
+      "fried"
+    ]
+  },
+  {
+    "name": "Kheer",
+    "description": "Rice pudding.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "rice",
+      "milk",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Gajar Halwa",
+    "description": "Carrot pudding.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor",
+      "winter"
+    ]
+  },
+  {
+    "name": "Ladoo",
+    "description": "Sweet ball.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Kaju Katli",
+    "description": "Cashew diamond sweet.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Phirni",
+    "description": "Ground rice milk dessert.",
+    "tags": [
+      "north_indian",
+      "mughlai",
+      "sweet",
+      "dessert",
+      "rice",
+      "milk",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Moong Dal Halwa",
+    "description": "Lentil halwa.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "lentil",
+      "festive",
+      "sweet_flavor",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Masala Chai",
+    "description": "Spiced Indian tea.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "beverage",
+      "tea",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Lassi",
+    "description": "Yogurt-based drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "beverage",
+      "lassi",
+      "yogurt",
+      "cold_drink"
+    ]
+  },
+  {
+    "name": "Paneer Do Pyaza",
+    "description": "Paneer with double onion.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Methi Malai Paneer",
+    "description": "Paneer in fenugreek cream.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "main",
+      "lunch",
+      "dinner",
+      "mild"
+    ]
+  },
+  {
+    "name": "Bhindi Fry",
+    "description": "Crispy fried okra.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "crispy",
+      "fried"
+    ]
+  },
+  {
+    "name": "Paneer Bhurji",
+    "description": "Scrambled paneer.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "paneer",
+      "breakfast",
+      "main",
+      "quick"
+    ]
+  },
+  {
+    "name": "Khichdi",
+    "description": "Rice and lentil porridge.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "light",
+      "alkaline"
+    ]
+  },
+  {
+    "name": "Vegetable Khichdi",
+    "description": "Khichdi with vegetables.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "dal",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "light",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Simple tomato soup.",
+    "tags": [
+      "north_indian",
+      "soup",
+      "starter",
+      "tomato",
+      "light",
+      "mild"
+    ]
+  },
+  {
+    "name": "Dal Shorba",
+    "description": "Lentil soup.",
+    "tags": [
+      "north_indian",
+      "soup",
+      "starter",
+      "lentil",
+      "light"
+    ]
+  },
+  {
+    "name": "Raita",
+    "description": "Yogurt side.",
+    "tags": [
+      "north_indian",
+      "yogurt",
+      "cooling",
+      "mild"
+    ]
+  },
+  {
+    "name": "Papad",
+    "description": "Crispy lentil wafer.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "crispy",
+      "lentil"
+    ]
+  },
+  {
+    "name": "Besan Ladoo",
+    "description": "Gram flour sweet.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Barfi",
+    "description": "Milk fudge.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Thandai",
+    "description": "Spiced milk drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "beverage",
+      "milk",
+      "festive"
+    ]
+  },
+  {
+    "name": "Jaljeera",
+    "description": "Cumin-mint digestive drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "beverage",
+      "cold_drink",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Aam Panna",
+    "description": "Raw mango drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "juice",
+      "cold_drink",
+      "tangy",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Chaas",
+    "description": "Spiced buttermilk.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "beverage",
+      "yogurt",
+      "cold_drink",
+      "light"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 1",
+    "description": "North Indian style vegetable curry variety 1.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 2",
+    "description": "North Indian style vegetable curry variety 2.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 3",
+    "description": "North Indian style vegetable curry variety 3.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 4",
+    "description": "North Indian style vegetable curry variety 4.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 5",
+    "description": "North Indian style vegetable curry variety 5.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 6",
+    "description": "North Indian style vegetable curry variety 6.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 7",
+    "description": "North Indian style vegetable curry variety 7.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 8",
+    "description": "North Indian style vegetable curry variety 8.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 9",
+    "description": "North Indian style vegetable curry variety 9.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 10",
+    "description": "North Indian style vegetable curry variety 10.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 11",
+    "description": "North Indian style vegetable curry variety 11.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 12",
+    "description": "North Indian style vegetable curry variety 12.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 13",
+    "description": "North Indian style vegetable curry variety 13.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 14",
+    "description": "North Indian style vegetable curry variety 14.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 15",
+    "description": "North Indian style vegetable curry variety 15.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 16",
+    "description": "North Indian style vegetable curry variety 16.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 17",
+    "description": "North Indian style vegetable curry variety 17.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 18",
+    "description": "North Indian style vegetable curry variety 18.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 19",
+    "description": "North Indian style vegetable curry variety 19.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 20",
+    "description": "North Indian style vegetable curry variety 20.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 21",
+    "description": "North Indian style vegetable curry variety 21.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 22",
+    "description": "North Indian style vegetable curry variety 22.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 23",
+    "description": "North Indian style vegetable curry variety 23.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 24",
+    "description": "North Indian style vegetable curry variety 24.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 25",
+    "description": "North Indian style vegetable curry variety 25.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 26",
+    "description": "North Indian style vegetable curry variety 26.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 27",
+    "description": "North Indian style vegetable curry variety 27.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 28",
+    "description": "North Indian style vegetable curry variety 28.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 29",
+    "description": "North Indian style vegetable curry variety 29.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 30",
+    "description": "North Indian style vegetable curry variety 30.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 31",
+    "description": "North Indian style vegetable curry variety 31.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 32",
+    "description": "North Indian style vegetable curry variety 32.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 33",
+    "description": "North Indian style vegetable curry variety 33.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 34",
+    "description": "North Indian style vegetable curry variety 34.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 35",
+    "description": "North Indian style vegetable curry variety 35.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 36",
+    "description": "North Indian style vegetable curry variety 36.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 37",
+    "description": "North Indian style vegetable curry variety 37.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 38",
+    "description": "North Indian style vegetable curry variety 38.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 39",
+    "description": "North Indian style vegetable curry variety 39.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 40",
+    "description": "North Indian style vegetable curry variety 40.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 41",
+    "description": "North Indian style vegetable curry variety 41.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 42",
+    "description": "North Indian style vegetable curry variety 42.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 43",
+    "description": "North Indian style vegetable curry variety 43.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 44",
+    "description": "North Indian style vegetable curry variety 44.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 45",
+    "description": "North Indian style vegetable curry variety 45.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 46",
+    "description": "North Indian style vegetable curry variety 46.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 47",
+    "description": "North Indian style vegetable curry variety 47.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 48",
+    "description": "North Indian style vegetable curry variety 48.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 49",
+    "description": "North Indian style vegetable curry variety 49.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 50",
+    "description": "North Indian style vegetable curry variety 50.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "North Indian Sabzi 51",
+    "description": "North Indian style vegetable curry variety 51.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Idli",
+    "description": "Steamed rice cakes.",
+    "tags": [
+      "south_indian",
+      "idli",
+      "breakfast",
+      "steamed",
+      "light",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Dosa",
+    "description": "Crispy rice crepe.",
+    "tags": [
+      "south_indian",
+      "dosa",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "crispy",
+      "rice_flour"
+    ]
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Dosa stuffed with potato masala.",
+    "tags": [
+      "south_indian",
+      "dosa",
+      "potato",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Rava Dosa",
+    "description": "Crispy semolina dosa.",
+    "tags": [
+      "south_indian",
+      "dosa",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Uttapam",
+    "description": "Thick rice pancake with toppings.",
+    "tags": [
+      "south_indian",
+      "uttapam",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "soft"
+    ]
+  },
+  {
+    "name": "Medu Vada",
+    "description": "Lentil doughnut.",
+    "tags": [
+      "south_indian",
+      "vada",
+      "breakfast",
+      "snack",
+      "fried",
+      "lentil"
+    ]
+  },
+  {
+    "name": "Sambar",
+    "description": "South Indian lentil-vegetable stew.",
+    "tags": [
+      "south_indian",
+      "sambar",
+      "main",
+      "lunch",
+      "dinner",
+      "tangy",
+      "lentil"
+    ]
+  },
+  {
+    "name": "Coconut Chutney",
+    "description": "Coconut chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "coconut",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Ven Pongal",
+    "description": "Pepper and cumin rice-lentil dish.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "pongal",
+      "breakfast",
+      "comfort",
+      "lentil"
+    ]
+  },
+  {
+    "name": "Bisi Bele Bath",
+    "description": "Spiced rice-lentil-vegetable one-pot.",
+    "tags": [
+      "south_indian",
+      "karnataka",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Avial",
+    "description": "Kerala mixed vegetable in coconut yogurt.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "sabji",
+      "coconut",
+      "yogurt",
+      "main",
+      "lunch",
+      "dinner",
+      "mild"
+    ]
+  },
+  {
+    "name": "Thoran",
+    "description": "Kerala dry vegetable stir-fry.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "sabji",
+      "coconut",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Rasam",
+    "description": "Pepper-tomato tamarind soup.",
+    "tags": [
+      "south_indian",
+      "rasam",
+      "soup",
+      "main",
+      "lunch",
+      "dinner",
+      "tangy",
+      "light"
+    ]
+  },
+  {
+    "name": "Lemon Rice",
+    "description": "South-style lemon rice.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "tangy",
+      "light",
+      "quick"
+    ]
+  },
+  {
+    "name": "Tamarind Rice",
+    "description": "Puliyodarai.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Curd Rice",
+    "description": "Yogurt rice with tempering.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "rice",
+      "yogurt",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "mild"
+    ]
+  },
+  {
+    "name": "Tomato Rice",
+    "description": "Tomato-flavoured rice.",
+    "tags": [
+      "south_indian",
+      "rice",
+      "tomato",
+      "main",
+      "lunch",
+      "dinner",
+      "quick"
+    ]
+  },
+  {
+    "name": "Upma",
+    "description": "Semolina savoury porridge.",
+    "tags": [
+      "south_indian",
+      "upma",
+      "breakfast",
+      "quick",
+      "light"
+    ]
+  },
+  {
+    "name": "Pongal",
+    "description": "Sweet pongal.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "sweet",
+      "dessert",
+      "rice",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Payasam",
+    "description": "South Indian kheer.",
+    "tags": [
+      "south_indian",
+      "sweet",
+      "dessert",
+      "rice",
+      "milk",
+      "sweet_flavor",
+      "festive"
+    ]
+  },
+  {
+    "name": "Appam",
+    "description": "Rice hoppers.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "breakfast",
+      "dinner",
+      "rice_flour",
+      "soft"
+    ]
+  },
+  {
+    "name": "Puttu",
+    "description": "Steamed rice cylinders.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "breakfast",
+      "rice_flour",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Pesarattu",
+    "description": "Green gram crepe.",
+    "tags": [
+      "south_indian",
+      "telugu",
+      "dosa",
+      "breakfast",
+      "lentil",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "description": "Spicy red chutney dosa.",
+    "tags": [
+      "south_indian",
+      "karnataka",
+      "dosa",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "spicy",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Idiyappam",
+    "description": "Rice noodle strings.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "tamil",
+      "breakfast",
+      "dinner",
+      "rice_flour",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Parotta",
+    "description": "Layered flatbread.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "tamil",
+      "bread",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Adai",
+    "description": "Lentil crepe.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "dosa",
+      "breakfast",
+      "dinner",
+      "lentil",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Filter Coffee",
+    "description": "South Indian filter coffee.",
+    "tags": [
+      "south_indian",
+      "drink",
+      "beverage",
+      "tea"
+    ]
+  },
+  {
+    "name": "Coconut Rice",
+    "description": "South-style coconut rice.",
+    "tags": [
+      "south_indian",
+      "rice",
+      "coconut",
+      "main",
+      "lunch",
+      "dinner",
+      "mild"
+    ]
+  },
+  {
+    "name": "South Indian Curry 1",
+    "description": "South Indian style curry variety 1.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 2",
+    "description": "South Indian style curry variety 2.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 3",
+    "description": "South Indian style curry variety 3.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 4",
+    "description": "South Indian style curry variety 4.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 5",
+    "description": "South Indian style curry variety 5.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 6",
+    "description": "South Indian style curry variety 6.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 7",
+    "description": "South Indian style curry variety 7.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 8",
+    "description": "South Indian style curry variety 8.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 9",
+    "description": "South Indian style curry variety 9.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 10",
+    "description": "South Indian style curry variety 10.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 11",
+    "description": "South Indian style curry variety 11.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 12",
+    "description": "South Indian style curry variety 12.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 13",
+    "description": "South Indian style curry variety 13.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 14",
+    "description": "South Indian style curry variety 14.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 15",
+    "description": "South Indian style curry variety 15.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 16",
+    "description": "South Indian style curry variety 16.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 17",
+    "description": "South Indian style curry variety 17.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 18",
+    "description": "South Indian style curry variety 18.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 19",
+    "description": "South Indian style curry variety 19.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 20",
+    "description": "South Indian style curry variety 20.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 21",
+    "description": "South Indian style curry variety 21.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 22",
+    "description": "South Indian style curry variety 22.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 23",
+    "description": "South Indian style curry variety 23.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 24",
+    "description": "South Indian style curry variety 24.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 25",
+    "description": "South Indian style curry variety 25.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 26",
+    "description": "South Indian style curry variety 26.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 27",
+    "description": "South Indian style curry variety 27.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 28",
+    "description": "South Indian style curry variety 28.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 29",
+    "description": "South Indian style curry variety 29.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 30",
+    "description": "South Indian style curry variety 30.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 31",
+    "description": "South Indian style curry variety 31.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 32",
+    "description": "South Indian style curry variety 32.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 33",
+    "description": "South Indian style curry variety 33.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 34",
+    "description": "South Indian style curry variety 34.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 35",
+    "description": "South Indian style curry variety 35.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 36",
+    "description": "South Indian style curry variety 36.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 37",
+    "description": "South Indian style curry variety 37.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 38",
+    "description": "South Indian style curry variety 38.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 39",
+    "description": "South Indian style curry variety 39.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 40",
+    "description": "South Indian style curry variety 40.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 41",
+    "description": "South Indian style curry variety 41.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 42",
+    "description": "South Indian style curry variety 42.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 43",
+    "description": "South Indian style curry variety 43.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 44",
+    "description": "South Indian style curry variety 44.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 45",
+    "description": "South Indian style curry variety 45.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 46",
+    "description": "South Indian style curry variety 46.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 47",
+    "description": "South Indian style curry variety 47.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 48",
+    "description": "South Indian style curry variety 48.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 49",
+    "description": "South Indian style curry variety 49.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 50",
+    "description": "South Indian style curry variety 50.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 51",
+    "description": "South Indian style curry variety 51.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 52",
+    "description": "South Indian style curry variety 52.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 53",
+    "description": "South Indian style curry variety 53.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 54",
+    "description": "South Indian style curry variety 54.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 55",
+    "description": "South Indian style curry variety 55.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 56",
+    "description": "South Indian style curry variety 56.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 57",
+    "description": "South Indian style curry variety 57.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 58",
+    "description": "South Indian style curry variety 58.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 59",
+    "description": "South Indian style curry variety 59.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 60",
+    "description": "South Indian style curry variety 60.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 61",
+    "description": "South Indian style curry variety 61.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 62",
+    "description": "South Indian style curry variety 62.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 63",
+    "description": "South Indian style curry variety 63.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 64",
+    "description": "South Indian style curry variety 64.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 65",
+    "description": "South Indian style curry variety 65.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 66",
+    "description": "South Indian style curry variety 66.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 67",
+    "description": "South Indian style curry variety 67.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 68",
+    "description": "South Indian style curry variety 68.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 69",
+    "description": "South Indian style curry variety 69.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 70",
+    "description": "South Indian style curry variety 70.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 71",
+    "description": "South Indian style curry variety 71.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 72",
+    "description": "South Indian style curry variety 72.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 73",
+    "description": "South Indian style curry variety 73.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 74",
+    "description": "South Indian style curry variety 74.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 75",
+    "description": "South Indian style curry variety 75.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "South Indian Curry 76",
+    "description": "South Indian style curry variety 76.",
+    "tags": [
+      "south_indian",
+      "curry",
+      "main",
+      "lunch",
+      "dinner",
+      "coconut"
+    ]
+  },
+  {
+    "name": "Dhokla",
+    "description": "Steamed gram flour cake.",
+    "tags": [
+      "gujarati",
+      "breakfast",
+      "snack",
+      "steamed",
+      "light",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Thepla",
+    "description": "Fenugreek flatbread.",
+    "tags": [
+      "gujarati",
+      "bread",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Fafda",
+    "description": "Crispy gram flour snack.",
+    "tags": [
+      "gujarati",
+      "snack",
+      "street_food",
+      "crispy",
+      "fried"
+    ]
+  },
+  {
+    "name": "Undhiyu",
+    "description": "Gujarati mixed vegetable.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "festive",
+      "winter"
+    ]
+  },
+  {
+    "name": "Khandvi",
+    "description": "Gram flour rolls.",
+    "tags": [
+      "gujarati",
+      "snack",
+      "starter",
+      "light"
+    ]
+  },
+  {
+    "name": "Dal Bati Churma",
+    "description": "Rajasthani dal with wheat balls.",
+    "tags": [
+      "rajasthani",
+      "dal",
+      "bread",
+      "main",
+      "lunch",
+      "dinner",
+      "heavy",
+      "festive"
+    ]
+  },
+  {
+    "name": "Gatte Ki Sabzi",
+    "description": "Gram flour dumplings in gravy.",
+    "tags": [
+      "rajasthani",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Pyaaz Kachori",
+    "description": "Onion-stuffed kachori.",
+    "tags": [
+      "rajasthani",
+      "snack",
+      "street_food",
+      "fried",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Dal Dhokli",
+    "description": "Gujarati dal with wheat strips.",
+    "tags": [
+      "gujarati",
+      "dal",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Misal Pav",
+    "description": "Spicy sprouted curry with bread.",
+    "tags": [
+      "maharashtrian",
+      "street_food",
+      "breakfast",
+      "main",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Pav Bhaji",
+    "description": "Buttered bread with vegetable mash.",
+    "tags": [
+      "maharashtrian",
+      "street_food",
+      "snack",
+      "main",
+      "comfort",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Vada Pav",
+    "description": "Potato vada in bread.",
+    "tags": [
+      "maharashtrian",
+      "street_food",
+      "snack",
+      "potato",
+      "fried"
+    ]
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "description": "Tapioca pearl khichdi.",
+    "tags": [
+      "maharashtrian",
+      "breakfast",
+      "snack",
+      "light",
+      "quick"
+    ]
+  },
+  {
+    "name": "Shrikhand",
+    "description": "Sweetened strained yogurt.",
+    "tags": [
+      "gujarati",
+      "maharashtrian",
+      "sweet",
+      "dessert",
+      "yogurt",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Basundi",
+    "description": "Reduced milk dessert.",
+    "tags": [
+      "maharashtrian",
+      "gujarati",
+      "sweet",
+      "dessert",
+      "milk",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Sol Kadi",
+    "description": "Kokum coconut drink.",
+    "tags": [
+      "maharashtrian",
+      "drink",
+      "coconut",
+      "tangy",
+      "cold_drink"
+    ]
+  },
+  {
+    "name": "Ragda Pattice",
+    "description": "Potato patty with white pea curry.",
+    "tags": [
+      "maharashtrian",
+      "chaat",
+      "street_food",
+      "snack",
+      "potato"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 1",
+    "description": "Gujarati style vegetable dish 1.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 2",
+    "description": "Gujarati style vegetable dish 2.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 3",
+    "description": "Gujarati style vegetable dish 3.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 4",
+    "description": "Gujarati style vegetable dish 4.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 5",
+    "description": "Gujarati style vegetable dish 5.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 6",
+    "description": "Gujarati style vegetable dish 6.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 7",
+    "description": "Gujarati style vegetable dish 7.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 8",
+    "description": "Gujarati style vegetable dish 8.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 9",
+    "description": "Gujarati style vegetable dish 9.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 10",
+    "description": "Gujarati style vegetable dish 10.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 11",
+    "description": "Gujarati style vegetable dish 11.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 12",
+    "description": "Gujarati style vegetable dish 12.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 13",
+    "description": "Gujarati style vegetable dish 13.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 14",
+    "description": "Gujarati style vegetable dish 14.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 15",
+    "description": "Gujarati style vegetable dish 15.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 16",
+    "description": "Gujarati style vegetable dish 16.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 17",
+    "description": "Gujarati style vegetable dish 17.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 18",
+    "description": "Gujarati style vegetable dish 18.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 19",
+    "description": "Gujarati style vegetable dish 19.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 20",
+    "description": "Gujarati style vegetable dish 20.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 21",
+    "description": "Gujarati style vegetable dish 21.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 22",
+    "description": "Gujarati style vegetable dish 22.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 23",
+    "description": "Gujarati style vegetable dish 23.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 24",
+    "description": "Gujarati style vegetable dish 24.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 25",
+    "description": "Gujarati style vegetable dish 25.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 26",
+    "description": "Gujarati style vegetable dish 26.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 27",
+    "description": "Gujarati style vegetable dish 27.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 28",
+    "description": "Gujarati style vegetable dish 28.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 29",
+    "description": "Gujarati style vegetable dish 29.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 30",
+    "description": "Gujarati style vegetable dish 30.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 31",
+    "description": "Gujarati style vegetable dish 31.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 32",
+    "description": "Gujarati style vegetable dish 32.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 33",
+    "description": "Gujarati style vegetable dish 33.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 34",
+    "description": "Gujarati style vegetable dish 34.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 35",
+    "description": "Gujarati style vegetable dish 35.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 36",
+    "description": "Gujarati style vegetable dish 36.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 37",
+    "description": "Gujarati style vegetable dish 37.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 38",
+    "description": "Gujarati style vegetable dish 38.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 39",
+    "description": "Gujarati style vegetable dish 39.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 40",
+    "description": "Gujarati style vegetable dish 40.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 41",
+    "description": "Gujarati style vegetable dish 41.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 42",
+    "description": "Gujarati style vegetable dish 42.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 43",
+    "description": "Gujarati style vegetable dish 43.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 44",
+    "description": "Gujarati style vegetable dish 44.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 45",
+    "description": "Gujarati style vegetable dish 45.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 46",
+    "description": "Gujarati style vegetable dish 46.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 47",
+    "description": "Gujarati style vegetable dish 47.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 48",
+    "description": "Gujarati style vegetable dish 48.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 49",
+    "description": "Gujarati style vegetable dish 49.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 50",
+    "description": "Gujarati style vegetable dish 50.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 51",
+    "description": "Gujarati style vegetable dish 51.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 52",
+    "description": "Gujarati style vegetable dish 52.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 53",
+    "description": "Gujarati style vegetable dish 53.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 54",
+    "description": "Gujarati style vegetable dish 54.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 55",
+    "description": "Gujarati style vegetable dish 55.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 56",
+    "description": "Gujarati style vegetable dish 56.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 57",
+    "description": "Gujarati style vegetable dish 57.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 58",
+    "description": "Gujarati style vegetable dish 58.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 59",
+    "description": "Gujarati style vegetable dish 59.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 60",
+    "description": "Gujarati style vegetable dish 60.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 61",
+    "description": "Gujarati style vegetable dish 61.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 62",
+    "description": "Gujarati style vegetable dish 62.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 63",
+    "description": "Gujarati style vegetable dish 63.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 64",
+    "description": "Gujarati style vegetable dish 64.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 65",
+    "description": "Gujarati style vegetable dish 65.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 66",
+    "description": "Gujarati style vegetable dish 66.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 67",
+    "description": "Gujarati style vegetable dish 67.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 68",
+    "description": "Gujarati style vegetable dish 68.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 69",
+    "description": "Gujarati style vegetable dish 69.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 70",
+    "description": "Gujarati style vegetable dish 70.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 71",
+    "description": "Gujarati style vegetable dish 71.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 72",
+    "description": "Gujarati style vegetable dish 72.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 73",
+    "description": "Gujarati style vegetable dish 73.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 74",
+    "description": "Gujarati style vegetable dish 74.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 75",
+    "description": "Gujarati style vegetable dish 75.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 76",
+    "description": "Gujarati style vegetable dish 76.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 77",
+    "description": "Gujarati style vegetable dish 77.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 78",
+    "description": "Gujarati style vegetable dish 78.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 79",
+    "description": "Gujarati style vegetable dish 79.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 80",
+    "description": "Gujarati style vegetable dish 80.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 81",
+    "description": "Gujarati style vegetable dish 81.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 82",
+    "description": "Gujarati style vegetable dish 82.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 83",
+    "description": "Gujarati style vegetable dish 83.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 84",
+    "description": "Gujarati style vegetable dish 84.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 85",
+    "description": "Gujarati style vegetable dish 85.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 86",
+    "description": "Gujarati style vegetable dish 86.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 87",
+    "description": "Gujarati style vegetable dish 87.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 88",
+    "description": "Gujarati style vegetable dish 88.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 89",
+    "description": "Gujarati style vegetable dish 89.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 90",
+    "description": "Gujarati style vegetable dish 90.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 91",
+    "description": "Gujarati style vegetable dish 91.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 92",
+    "description": "Gujarati style vegetable dish 92.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 93",
+    "description": "Gujarati style vegetable dish 93.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Gujarati Sabzi 94",
+    "description": "Gujarati style vegetable dish 94.",
+    "tags": [
+      "gujarati",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 1",
+    "description": "Rajasthani style dish 1.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 2",
+    "description": "Rajasthani style dish 2.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 3",
+    "description": "Rajasthani style dish 3.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 4",
+    "description": "Rajasthani style dish 4.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 5",
+    "description": "Rajasthani style dish 5.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 6",
+    "description": "Rajasthani style dish 6.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 7",
+    "description": "Rajasthani style dish 7.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 8",
+    "description": "Rajasthani style dish 8.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 9",
+    "description": "Rajasthani style dish 9.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 10",
+    "description": "Rajasthani style dish 10.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 11",
+    "description": "Rajasthani style dish 11.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 12",
+    "description": "Rajasthani style dish 12.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 13",
+    "description": "Rajasthani style dish 13.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 14",
+    "description": "Rajasthani style dish 14.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 15",
+    "description": "Rajasthani style dish 15.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 16",
+    "description": "Rajasthani style dish 16.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 17",
+    "description": "Rajasthani style dish 17.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 18",
+    "description": "Rajasthani style dish 18.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 19",
+    "description": "Rajasthani style dish 19.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 20",
+    "description": "Rajasthani style dish 20.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 21",
+    "description": "Rajasthani style dish 21.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 22",
+    "description": "Rajasthani style dish 22.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 23",
+    "description": "Rajasthani style dish 23.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 24",
+    "description": "Rajasthani style dish 24.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 25",
+    "description": "Rajasthani style dish 25.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 26",
+    "description": "Rajasthani style dish 26.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 27",
+    "description": "Rajasthani style dish 27.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 28",
+    "description": "Rajasthani style dish 28.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 29",
+    "description": "Rajasthani style dish 29.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 30",
+    "description": "Rajasthani style dish 30.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 31",
+    "description": "Rajasthani style dish 31.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 32",
+    "description": "Rajasthani style dish 32.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 33",
+    "description": "Rajasthani style dish 33.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 34",
+    "description": "Rajasthani style dish 34.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 35",
+    "description": "Rajasthani style dish 35.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 36",
+    "description": "Rajasthani style dish 36.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 37",
+    "description": "Rajasthani style dish 37.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 38",
+    "description": "Rajasthani style dish 38.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 39",
+    "description": "Rajasthani style dish 39.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 40",
+    "description": "Rajasthani style dish 40.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 41",
+    "description": "Rajasthani style dish 41.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 42",
+    "description": "Rajasthani style dish 42.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 43",
+    "description": "Rajasthani style dish 43.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 44",
+    "description": "Rajasthani style dish 44.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 45",
+    "description": "Rajasthani style dish 45.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 46",
+    "description": "Rajasthani style dish 46.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 47",
+    "description": "Rajasthani style dish 47.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 48",
+    "description": "Rajasthani style dish 48.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 49",
+    "description": "Rajasthani style dish 49.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 50",
+    "description": "Rajasthani style dish 50.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 51",
+    "description": "Rajasthani style dish 51.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 52",
+    "description": "Rajasthani style dish 52.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 53",
+    "description": "Rajasthani style dish 53.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 54",
+    "description": "Rajasthani style dish 54.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 55",
+    "description": "Rajasthani style dish 55.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 56",
+    "description": "Rajasthani style dish 56.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 57",
+    "description": "Rajasthani style dish 57.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 58",
+    "description": "Rajasthani style dish 58.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 59",
+    "description": "Rajasthani style dish 59.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 60",
+    "description": "Rajasthani style dish 60.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 61",
+    "description": "Rajasthani style dish 61.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 62",
+    "description": "Rajasthani style dish 62.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 63",
+    "description": "Rajasthani style dish 63.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 64",
+    "description": "Rajasthani style dish 64.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 65",
+    "description": "Rajasthani style dish 65.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 66",
+    "description": "Rajasthani style dish 66.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 67",
+    "description": "Rajasthani style dish 67.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 68",
+    "description": "Rajasthani style dish 68.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 69",
+    "description": "Rajasthani style dish 69.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 70",
+    "description": "Rajasthani style dish 70.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 71",
+    "description": "Rajasthani style dish 71.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 72",
+    "description": "Rajasthani style dish 72.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 73",
+    "description": "Rajasthani style dish 73.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 74",
+    "description": "Rajasthani style dish 74.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 75",
+    "description": "Rajasthani style dish 75.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 76",
+    "description": "Rajasthani style dish 76.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 77",
+    "description": "Rajasthani style dish 77.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 78",
+    "description": "Rajasthani style dish 78.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 79",
+    "description": "Rajasthani style dish 79.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 80",
+    "description": "Rajasthani style dish 80.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 81",
+    "description": "Rajasthani style dish 81.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 82",
+    "description": "Rajasthani style dish 82.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 83",
+    "description": "Rajasthani style dish 83.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 84",
+    "description": "Rajasthani style dish 84.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 85",
+    "description": "Rajasthani style dish 85.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 86",
+    "description": "Rajasthani style dish 86.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 87",
+    "description": "Rajasthani style dish 87.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 88",
+    "description": "Rajasthani style dish 88.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 89",
+    "description": "Rajasthani style dish 89.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 90",
+    "description": "Rajasthani style dish 90.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 91",
+    "description": "Rajasthani style dish 91.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 92",
+    "description": "Rajasthani style dish 92.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 93",
+    "description": "Rajasthani style dish 93.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 94",
+    "description": "Rajasthani style dish 94.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 95",
+    "description": "Rajasthani style dish 95.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Rajasthani Dish 96",
+    "description": "Rajasthani style dish 96.",
+    "tags": [
+      "rajasthani",
+      "main",
+      "lunch",
+      "dinner",
+      "comfort"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 1",
+    "description": "Maharashtrian style dish 1.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 2",
+    "description": "Maharashtrian style dish 2.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 3",
+    "description": "Maharashtrian style dish 3.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 4",
+    "description": "Maharashtrian style dish 4.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 5",
+    "description": "Maharashtrian style dish 5.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 6",
+    "description": "Maharashtrian style dish 6.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 7",
+    "description": "Maharashtrian style dish 7.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 8",
+    "description": "Maharashtrian style dish 8.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 9",
+    "description": "Maharashtrian style dish 9.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 10",
+    "description": "Maharashtrian style dish 10.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 11",
+    "description": "Maharashtrian style dish 11.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 12",
+    "description": "Maharashtrian style dish 12.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 13",
+    "description": "Maharashtrian style dish 13.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 14",
+    "description": "Maharashtrian style dish 14.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 15",
+    "description": "Maharashtrian style dish 15.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 16",
+    "description": "Maharashtrian style dish 16.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 17",
+    "description": "Maharashtrian style dish 17.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 18",
+    "description": "Maharashtrian style dish 18.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 19",
+    "description": "Maharashtrian style dish 19.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 20",
+    "description": "Maharashtrian style dish 20.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 21",
+    "description": "Maharashtrian style dish 21.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 22",
+    "description": "Maharashtrian style dish 22.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 23",
+    "description": "Maharashtrian style dish 23.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 24",
+    "description": "Maharashtrian style dish 24.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 25",
+    "description": "Maharashtrian style dish 25.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 26",
+    "description": "Maharashtrian style dish 26.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 27",
+    "description": "Maharashtrian style dish 27.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 28",
+    "description": "Maharashtrian style dish 28.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 29",
+    "description": "Maharashtrian style dish 29.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 30",
+    "description": "Maharashtrian style dish 30.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 31",
+    "description": "Maharashtrian style dish 31.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 32",
+    "description": "Maharashtrian style dish 32.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 33",
+    "description": "Maharashtrian style dish 33.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 34",
+    "description": "Maharashtrian style dish 34.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 35",
+    "description": "Maharashtrian style dish 35.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 36",
+    "description": "Maharashtrian style dish 36.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 37",
+    "description": "Maharashtrian style dish 37.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 38",
+    "description": "Maharashtrian style dish 38.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 39",
+    "description": "Maharashtrian style dish 39.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 40",
+    "description": "Maharashtrian style dish 40.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 41",
+    "description": "Maharashtrian style dish 41.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 42",
+    "description": "Maharashtrian style dish 42.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 43",
+    "description": "Maharashtrian style dish 43.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 44",
+    "description": "Maharashtrian style dish 44.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 45",
+    "description": "Maharashtrian style dish 45.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 46",
+    "description": "Maharashtrian style dish 46.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 47",
+    "description": "Maharashtrian style dish 47.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 48",
+    "description": "Maharashtrian style dish 48.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 49",
+    "description": "Maharashtrian style dish 49.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 50",
+    "description": "Maharashtrian style dish 50.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 51",
+    "description": "Maharashtrian style dish 51.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 52",
+    "description": "Maharashtrian style dish 52.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 53",
+    "description": "Maharashtrian style dish 53.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 54",
+    "description": "Maharashtrian style dish 54.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 55",
+    "description": "Maharashtrian style dish 55.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 56",
+    "description": "Maharashtrian style dish 56.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 57",
+    "description": "Maharashtrian style dish 57.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 58",
+    "description": "Maharashtrian style dish 58.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 59",
+    "description": "Maharashtrian style dish 59.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 60",
+    "description": "Maharashtrian style dish 60.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 61",
+    "description": "Maharashtrian style dish 61.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 62",
+    "description": "Maharashtrian style dish 62.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 63",
+    "description": "Maharashtrian style dish 63.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 64",
+    "description": "Maharashtrian style dish 64.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 65",
+    "description": "Maharashtrian style dish 65.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 66",
+    "description": "Maharashtrian style dish 66.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 67",
+    "description": "Maharashtrian style dish 67.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 68",
+    "description": "Maharashtrian style dish 68.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 69",
+    "description": "Maharashtrian style dish 69.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 70",
+    "description": "Maharashtrian style dish 70.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 71",
+    "description": "Maharashtrian style dish 71.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 72",
+    "description": "Maharashtrian style dish 72.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 73",
+    "description": "Maharashtrian style dish 73.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 74",
+    "description": "Maharashtrian style dish 74.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 75",
+    "description": "Maharashtrian style dish 75.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 76",
+    "description": "Maharashtrian style dish 76.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 77",
+    "description": "Maharashtrian style dish 77.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 78",
+    "description": "Maharashtrian style dish 78.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 79",
+    "description": "Maharashtrian style dish 79.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 80",
+    "description": "Maharashtrian style dish 80.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 81",
+    "description": "Maharashtrian style dish 81.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 82",
+    "description": "Maharashtrian style dish 82.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 83",
+    "description": "Maharashtrian style dish 83.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 84",
+    "description": "Maharashtrian style dish 84.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 85",
+    "description": "Maharashtrian style dish 85.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 86",
+    "description": "Maharashtrian style dish 86.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 87",
+    "description": "Maharashtrian style dish 87.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 88",
+    "description": "Maharashtrian style dish 88.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 89",
+    "description": "Maharashtrian style dish 89.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 90",
+    "description": "Maharashtrian style dish 90.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 91",
+    "description": "Maharashtrian style dish 91.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 92",
+    "description": "Maharashtrian style dish 92.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 93",
+    "description": "Maharashtrian style dish 93.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 94",
+    "description": "Maharashtrian style dish 94.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 95",
+    "description": "Maharashtrian style dish 95.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Maharashtrian Dish 96",
+    "description": "Maharashtrian style dish 96.",
+    "tags": [
+      "maharashtrian",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Rasmalai",
+    "description": "Paneer balls in sweet milk.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "paneer",
+      "milk",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Rasgulla",
+    "description": "Bengali cheese balls in syrup.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "paneer",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Sandesh",
+    "description": "Bengali milk sweet.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "milk",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Mishti Doi",
+    "description": "Sweetened yogurt.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "yogurt",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Chomchom",
+    "description": "Bengali sweet.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Pantaloa",
+    "description": "Bengali sweet.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Aloo Posto",
+    "description": "Potato in poppy seed paste.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "potato",
+      "main",
+      "lunch",
+      "dinner",
+      "mild"
+    ]
+  },
+  {
+    "name": "Shukto",
+    "description": "Bengali mixed vegetable bitter starter.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Cholar Dal",
+    "description": "Bengal gram dal Bengali style.",
+    "tags": [
+      "bengali",
+      "dal",
+      "lentil",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Luchi",
+    "description": "Bengali puffed bread.",
+    "tags": [
+      "bengali",
+      "bread",
+      "breakfast",
+      "fried"
+    ]
+  },
+  {
+    "name": "Bhapa Ilish",
+    "description": "Steamed hilsa (if veg: substitute).",
+    "tags": [
+      "bengali",
+      "main",
+      "lunch",
+      "dinner",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Begun Bhaja",
+    "description": "Fried eggplant slices.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "starter",
+      "fried"
+    ]
+  },
+  {
+    "name": "Payesh",
+    "description": "Bengali rice kheer.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "rice",
+      "milk",
+      "sweet_flavor",
+      "festive"
+    ]
+  },
+  {
+    "name": "Rosogolla",
+    "description": "Spongy cheese balls in syrup.",
+    "tags": [
+      "bengali",
+      "sweet",
+      "dessert",
+      "paneer",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 1",
+    "description": "Bengali style vegetable dish 1.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 2",
+    "description": "Bengali style vegetable dish 2.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 3",
+    "description": "Bengali style vegetable dish 3.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 4",
+    "description": "Bengali style vegetable dish 4.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 5",
+    "description": "Bengali style vegetable dish 5.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 6",
+    "description": "Bengali style vegetable dish 6.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 7",
+    "description": "Bengali style vegetable dish 7.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 8",
+    "description": "Bengali style vegetable dish 8.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 9",
+    "description": "Bengali style vegetable dish 9.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 10",
+    "description": "Bengali style vegetable dish 10.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 11",
+    "description": "Bengali style vegetable dish 11.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 12",
+    "description": "Bengali style vegetable dish 12.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 13",
+    "description": "Bengali style vegetable dish 13.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 14",
+    "description": "Bengali style vegetable dish 14.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 15",
+    "description": "Bengali style vegetable dish 15.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 16",
+    "description": "Bengali style vegetable dish 16.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 17",
+    "description": "Bengali style vegetable dish 17.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 18",
+    "description": "Bengali style vegetable dish 18.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 19",
+    "description": "Bengali style vegetable dish 19.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 20",
+    "description": "Bengali style vegetable dish 20.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 21",
+    "description": "Bengali style vegetable dish 21.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 22",
+    "description": "Bengali style vegetable dish 22.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 23",
+    "description": "Bengali style vegetable dish 23.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 24",
+    "description": "Bengali style vegetable dish 24.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 25",
+    "description": "Bengali style vegetable dish 25.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 26",
+    "description": "Bengali style vegetable dish 26.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 27",
+    "description": "Bengali style vegetable dish 27.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 28",
+    "description": "Bengali style vegetable dish 28.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 29",
+    "description": "Bengali style vegetable dish 29.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 30",
+    "description": "Bengali style vegetable dish 30.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 31",
+    "description": "Bengali style vegetable dish 31.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 32",
+    "description": "Bengali style vegetable dish 32.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 33",
+    "description": "Bengali style vegetable dish 33.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 34",
+    "description": "Bengali style vegetable dish 34.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 35",
+    "description": "Bengali style vegetable dish 35.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 36",
+    "description": "Bengali style vegetable dish 36.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 37",
+    "description": "Bengali style vegetable dish 37.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 38",
+    "description": "Bengali style vegetable dish 38.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 39",
+    "description": "Bengali style vegetable dish 39.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 40",
+    "description": "Bengali style vegetable dish 40.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 41",
+    "description": "Bengali style vegetable dish 41.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 42",
+    "description": "Bengali style vegetable dish 42.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 43",
+    "description": "Bengali style vegetable dish 43.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 44",
+    "description": "Bengali style vegetable dish 44.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 45",
+    "description": "Bengali style vegetable dish 45.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 46",
+    "description": "Bengali style vegetable dish 46.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 47",
+    "description": "Bengali style vegetable dish 47.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 48",
+    "description": "Bengali style vegetable dish 48.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 49",
+    "description": "Bengali style vegetable dish 49.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 50",
+    "description": "Bengali style vegetable dish 50.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 51",
+    "description": "Bengali style vegetable dish 51.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 52",
+    "description": "Bengali style vegetable dish 52.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 53",
+    "description": "Bengali style vegetable dish 53.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 54",
+    "description": "Bengali style vegetable dish 54.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 55",
+    "description": "Bengali style vegetable dish 55.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 56",
+    "description": "Bengali style vegetable dish 56.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 57",
+    "description": "Bengali style vegetable dish 57.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 58",
+    "description": "Bengali style vegetable dish 58.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 59",
+    "description": "Bengali style vegetable dish 59.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 60",
+    "description": "Bengali style vegetable dish 60.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 61",
+    "description": "Bengali style vegetable dish 61.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 62",
+    "description": "Bengali style vegetable dish 62.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 63",
+    "description": "Bengali style vegetable dish 63.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 64",
+    "description": "Bengali style vegetable dish 64.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 65",
+    "description": "Bengali style vegetable dish 65.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 66",
+    "description": "Bengali style vegetable dish 66.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 67",
+    "description": "Bengali style vegetable dish 67.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 68",
+    "description": "Bengali style vegetable dish 68.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 69",
+    "description": "Bengali style vegetable dish 69.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 70",
+    "description": "Bengali style vegetable dish 70.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 71",
+    "description": "Bengali style vegetable dish 71.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 72",
+    "description": "Bengali style vegetable dish 72.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 73",
+    "description": "Bengali style vegetable dish 73.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 74",
+    "description": "Bengali style vegetable dish 74.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 75",
+    "description": "Bengali style vegetable dish 75.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 76",
+    "description": "Bengali style vegetable dish 76.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 77",
+    "description": "Bengali style vegetable dish 77.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 78",
+    "description": "Bengali style vegetable dish 78.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 79",
+    "description": "Bengali style vegetable dish 79.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 80",
+    "description": "Bengali style vegetable dish 80.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 81",
+    "description": "Bengali style vegetable dish 81.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 82",
+    "description": "Bengali style vegetable dish 82.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 83",
+    "description": "Bengali style vegetable dish 83.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 84",
+    "description": "Bengali style vegetable dish 84.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 85",
+    "description": "Bengali style vegetable dish 85.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Bengali Sabzi 86",
+    "description": "Bengali style vegetable dish 86.",
+    "tags": [
+      "bengali",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Veg Fried Rice",
+    "description": "Stir-fried rice with vegetables.",
+    "tags": [
+      "indo_chinese",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "quick"
+    ]
+  },
+  {
+    "name": "Hakka Noodles",
+    "description": "Indo-Chinese noodles with veggies.",
+    "tags": [
+      "indo_chinese",
+      "noodles",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Crispy Corn",
+    "description": "Crispy fried corn kernels.",
+    "tags": [
+      "indo_chinese",
+      "starter",
+      "crispy",
+      "fried",
+      "snack"
+    ]
+  },
+  {
+    "name": "Veg Spring Roll",
+    "description": "Crispy vegetable spring rolls.",
+    "tags": [
+      "indo_chinese",
+      "starter",
+      "crispy",
+      "fried",
+      "snack"
+    ]
+  },
+  {
+    "name": "Chilli Paneer",
+    "description": "Paneer in chilli sauce.",
+    "tags": [
+      "indo_chinese",
+      "paneer",
+      "starter",
+      "main",
+      "spicy",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Gobi Manchurian",
+    "description": "Cauliflower in Manchurian sauce.",
+    "tags": [
+      "indo_chinese",
+      "starter",
+      "cauliflower",
+      "fried",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Pani Puri",
+    "description": "Crispy puri with tangy water.",
+    "tags": [
+      "chaat",
+      "street_food",
+      "snack",
+      "crispy",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Bhel Puri",
+    "description": "Puffed rice chaat.",
+    "tags": [
+      "chaat",
+      "street_food",
+      "snack",
+      "crispy",
+      "tangy",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Dahi Puri",
+    "description": "Puri with yogurt and chutneys.",
+    "tags": [
+      "chaat",
+      "street_food",
+      "snack",
+      "yogurt",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Aloo Tikki",
+    "description": "Potato patty chaat.",
+    "tags": [
+      "chaat",
+      "street_food",
+      "snack",
+      "potato",
+      "fried"
+    ]
+  },
+  {
+    "name": "Dahi Vada",
+    "description": "Lentil vadas in yogurt.",
+    "tags": [
+      "chaat",
+      "snack",
+      "yogurt",
+      "lentil",
+      "tangy",
+      "cooling"
+    ]
+  },
+  {
+    "name": "Sweet Corn Soup",
+    "description": "Sweet corn vegetable soup.",
+    "tags": [
+      "indo_chinese",
+      "soup",
+      "starter",
+      "light",
+      "mild"
+    ]
+  },
+  {
+    "name": "Hot and Sour Soup",
+    "description": "Spicy tangy soup.",
+    "tags": [
+      "indo_chinese",
+      "soup",
+      "starter",
+      "spicy",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Nimbu Pani",
+    "description": "Fresh lime water.",
+    "tags": [
+      "drink",
+      "beverage",
+      "juice",
+      "cold_drink",
+      "tangy",
+      "light"
+    ]
+  },
+  {
+    "name": "Cold Coffee",
+    "description": "Iced coffee.",
+    "tags": [
+      "drink",
+      "beverage",
+      "cold_drink"
+    ]
+  },
+  {
+    "name": "Mango Shake",
+    "description": "Mango milkshake.",
+    "tags": [
+      "drink",
+      "juice",
+      "cold_drink",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Sweet Lassi",
+    "description": "Sweetened yogurt drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "lassi",
+      "yogurt",
+      "sweet_flavor",
+      "cold_drink"
+    ]
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "Mango yogurt drink.",
+    "tags": [
+      "north_indian",
+      "drink",
+      "lassi",
+      "yogurt",
+      "sweet_flavor",
+      "cold_drink"
+    ]
+  },
+  {
+    "name": "Ginger Chai",
+    "description": "Ginger-infused tea.",
+    "tags": [
+      "drink",
+      "beverage",
+      "tea",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Badam Milk",
+    "description": "Almond milk.",
+    "tags": [
+      "drink",
+      "beverage",
+      "milk",
+      "sweet_flavor",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Rose Sherbet",
+    "description": "Rose-flavoured drink.",
+    "tags": [
+      "drink",
+      "beverage",
+      "cold_drink",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Banana Shake",
+    "description": "Banana milk shake.",
+    "tags": [
+      "drink",
+      "juice",
+      "cold_drink",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Manchurian",
+    "description": "Veg balls in Manchurian sauce.",
+    "tags": [
+      "indo_chinese",
+      "starter",
+      "main",
+      "fried",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Honey Chilli Potato",
+    "description": "Crispy potato in honey chilli sauce.",
+    "tags": [
+      "indo_chinese",
+      "starter",
+      "potato",
+      "crispy",
+      "sweet_flavor",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Schezwan Rice",
+    "description": "Spicy Schezwan-style rice.",
+    "tags": [
+      "indo_chinese",
+      "rice",
+      "main",
+      "lunch",
+      "dinner",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Manchow Soup",
+    "description": "Veg Manchow soup.",
+    "tags": [
+      "indo_chinese",
+      "soup",
+      "starter",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Lemon Coriander Soup",
+    "description": "Light lemon coriander soup.",
+    "tags": [
+      "indo_chinese",
+      "soup",
+      "starter",
+      "light",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Double Ka Meetha",
+    "description": "Hyderabadi bread pudding.",
+    "tags": [
+      "telugu",
+      "sweet",
+      "dessert",
+      "bread",
+      "sweet_flavor",
+      "festive"
+    ]
+  },
+  {
+    "name": "Bebinca",
+    "description": "Goan layered dessert.",
+    "tags": [
+      "sweet",
+      "dessert",
+      "coconut",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Seviyan",
+    "description": "Vermicelli sweet.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "festive",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Soan Papdi",
+    "description": "Flaky sweet.",
+    "tags": [
+      "north_indian",
+      "sweet",
+      "dessert",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Onion Pakora",
+    "description": "Onion fritters.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "starter",
+      "fried",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Bread Pakora",
+    "description": "Bread fritters.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "starter",
+      "fried",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Paneer Pakora",
+    "description": "Paneer fritters.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "starter",
+      "paneer",
+      "fried"
+    ]
+  },
+  {
+    "name": "Kachori",
+    "description": "Stuffed fried snack.",
+    "tags": [
+      "north_indian",
+      "snack",
+      "street_food",
+      "fried",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Mirchi Bada",
+    "description": "Stuffed chilli fritters.",
+    "tags": [
+      "rajasthani",
+      "snack",
+      "street_food",
+      "fried",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Papdi Chaat",
+    "description": "Crispy papdi with chutneys.",
+    "tags": [
+      "chaat",
+      "street_food",
+      "snack",
+      "crispy",
+      "tangy",
+      "sweet_flavor"
+    ]
+  },
+  {
+    "name": "Palak Rice",
+    "description": "Spinach rice.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "spinach",
+      "main",
+      "lunch",
+      "dinner",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Mushroom Rice",
+    "description": "Mushroom pulao.",
+    "tags": [
+      "north_indian",
+      "rice",
+      "pulao",
+      "main",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Eggplant Curry",
+    "description": "Brinjal curry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Cabbage Sabzi",
+    "description": "Stir-fried cabbage.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "light",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Carrot Sabzi",
+    "description": "Gajar ki sabzi.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "sweet_flavor",
+      "home_style"
+    ]
+  },
+  {
+    "name": "French Beans Sabzi",
+    "description": "Beans stir-fry.",
+    "tags": [
+      "north_indian",
+      "sabji",
+      "main",
+      "lunch",
+      "dinner",
+      "home_style"
+    ]
+  },
+  {
+    "name": "Pav",
+    "description": "Soft bread rolls.",
+    "tags": [
+      "bread",
+      "snack",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "description": "Stir-fried Hakka noodles.",
+    "tags": [
+      "indo_chinese",
+      "noodles",
+      "main",
+      "lunch",
+      "dinner",
+      "quick"
+    ]
+  },
+  {
+    "name": "Paneer Chilli",
+    "description": "Paneer in chilli garlic sauce.",
+    "tags": [
+      "indo_chinese",
+      "paneer",
+      "starter",
+      "main",
+      "spicy"
+    ]
+  },
+  {
+    "name": "American Chopsey",
+    "description": "Crispy noodles with gravy.",
+    "tags": [
+      "indo_chinese",
+      "noodles",
+      "starter",
+      "main",
+      "crispy"
+    ]
+  },
+  {
+    "name": "Mulligatawny",
+    "description": "Pepper soup.",
+    "tags": [
+      "south_indian",
+      "continental",
+      "soup",
+      "starter",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Tomato Chutney",
+    "description": "Tomato chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "tomato",
+      "breakfast",
+      "snack",
+      "tangy"
+    ]
+  },
+  {
+    "name": "Pudina Chutney",
+    "description": "Fresh mint chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Dhania Chutney",
+    "description": "Coriander chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "savoury",
+      "mild",
+      "snack"
+    ]
+  },
+  {
+    "name": "Lahsun Chutney",
+    "description": "Garlic chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Imli Chutney",
+    "description": "Tamarind chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Khajur Imli Chutney",
+    "description": "Date and tamarind chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Anar Chutney",
+    "description": "Pomegranate chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Adrak Pudina Chutney",
+    "description": "Ginger-mint chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Hari Chutney",
+    "description": "Green chutney with coriander and mint.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Lal Chutney",
+    "description": "Red chutney with red chillies.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Aam Ki Chutney",
+    "description": "Raw mango chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Coconut Chutney",
+    "description": "Fresh coconut chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "coconut",
+      "savoury",
+      "breakfast",
+      "snack",
+      "mild"
+    ]
+  },
+  {
+    "name": "Roasted Coconut Chutney",
+    "description": "Roasted coconut chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "coconut",
+      "savoury",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Tomato Onion Chutney",
+    "description": "Tomato and onion chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "tomato",
+      "tangy",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Ginger Chutney",
+    "description": "Ginger chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "spicy",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Pudina Chutney South",
+    "description": "South-style mint chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Tamarind Chutney",
+    "description": "Tamarind chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Curry Leaf Chutney",
+    "description": "Curry leaf chutney.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "chutney",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Garlic Chutney South",
+    "description": "South Indian garlic chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Peanut Chutney",
+    "description": "Peanut chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "savoury",
+      "snack",
+      "mild"
+    ]
+  },
+  {
+    "name": "Onion Chutney",
+    "description": "Onion chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Mango Chutney South",
+    "description": "South-style mango chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Cilantro Coconut Chutney",
+    "description": "Coriander and coconut chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "coconut",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Red Chilli Chutney",
+    "description": "Red chilli chutney.",
+    "tags": [
+      "south_indian",
+      "chutney",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Bombay Chutney",
+    "description": "Chickpea flour chutney.",
+    "tags": [
+      "maharashtrian",
+      "chutney",
+      "savoury",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Lasan Chutney",
+    "description": "Maharashtrian garlic chutney.",
+    "tags": [
+      "maharashtrian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Thecha",
+    "description": "Maharashtrian green chilli-garlic chutney.",
+    "tags": [
+      "maharashtrian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Kanda Lasun Chutney",
+    "description": "Onion-garlic chutney.",
+    "tags": [
+      "maharashtrian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Gujarati Green Chutney",
+    "description": "Gujarati-style green chutney.",
+    "tags": [
+      "gujarati",
+      "chutney",
+      "savoury",
+      "snack",
+      "mild"
+    ]
+  },
+  {
+    "name": "Gujarati Sweet Chutney",
+    "description": "Gujarati sweet tamarind-date chutney.",
+    "tags": [
+      "gujarati",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Rajasthani Lehsun Chutney",
+    "description": "Rajasthani garlic chutney.",
+    "tags": [
+      "rajasthani",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Rajasthani Imli Chutney",
+    "description": "Rajasthani tamarind chutney.",
+    "tags": [
+      "rajasthani",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Ker Sangri Chutney",
+    "description": "Rajasthani ker sangri chutney.",
+    "tags": [
+      "rajasthani",
+      "chutney",
+      "tangy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Aam Chutney",
+    "description": "Bengali raw mango chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Tomato Chutney Bengali",
+    "description": "Bengali tomato chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "tangy",
+      "sweet_flavor",
+      "snack"
+    ]
+  },
+  {
+    "name": "Aam Porar Chutney",
+    "description": "Bengali roasted mango chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Pineapple Chutney",
+    "description": "Pineapple chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Papaya Chutney",
+    "description": "Raw papaya chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Date Tamarind Chutney Bengali",
+    "description": "Bengali date-tamarind chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Narikel Chutney",
+    "description": "Bengali coconut chutney.",
+    "tags": [
+      "bengali",
+      "chutney",
+      "coconut",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Tamil Coconut Chutney",
+    "description": "Tamil coconut chutney.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "chutney",
+      "coconut",
+      "savoury",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Tamil Tomato Chutney",
+    "description": "Tamil tomato chutney.",
+    "tags": [
+      "south_indian",
+      "tamil",
+      "chutney",
+      "tomato",
+      "tangy",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Andhra Gongura Chutney",
+    "description": "Andhra gongura (sorrel) chutney.",
+    "tags": [
+      "south_indian",
+      "telugu",
+      "chutney",
+      "tangy",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Andhra Ullipaya Chutney",
+    "description": "Andhra onion chutney.",
+    "tags": [
+      "south_indian",
+      "telugu",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Kerala Coconut Chutney",
+    "description": "Kerala-style coconut chutney.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "chutney",
+      "coconut",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Kerala Inji Puliyinji",
+    "description": "Kerala ginger-tamarind chutney.",
+    "tags": [
+      "south_indian",
+      "kerala",
+      "chutney",
+      "tangy",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Karnataka Chutney",
+    "description": "Karnataka-style coconut chutney.",
+    "tags": [
+      "south_indian",
+      "karnataka",
+      "chutney",
+      "coconut",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Hippe Chutney",
+    "description": "Karnataka dry chutney powder.",
+    "tags": [
+      "south_indian",
+      "karnataka",
+      "chutney",
+      "savoury",
+      "spicy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Sweet Mango Chutney",
+    "description": "Sweet ripe mango chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "sweet_flavor",
+      "snack",
+      "festive"
+    ]
+  },
+  {
+    "name": "Meethi Chutney",
+    "description": "Sweet chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "sweet_flavor",
+      "snack",
+      "street_food"
+    ]
+  },
+  {
+    "name": "Chilli Garlic Chutney",
+    "description": "Chilli-garlic chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "spicy",
+      "savoury",
+      "snack"
+    ]
+  },
+  {
+    "name": "Saunth",
+    "description": "Dry ginger and tamarind chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "sweet_flavor",
+      "tangy",
+      "snack"
+    ]
+  },
+  {
+    "name": "Dhania Pudina Chutney",
+    "description": "Coriander-mint chutney.",
+    "tags": [
+      "north_indian",
+      "chutney",
+      "savoury",
+      "snack",
+      "mild"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "api_key": "YOUR_GROQ_API_KEY_HERE",
+  "base_url": null,
+  "debug": true
+}
+
